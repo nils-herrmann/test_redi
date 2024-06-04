@@ -1,5 +1,5 @@
 """
-Exercise:
+Exercise 1:
 1. Create a virtual environment called venv
 2. Activate the virtual environment
 3. Install the pubmed_parser library version 0.4.0
